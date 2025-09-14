@@ -39,8 +39,9 @@
 | gomennasai |  | 🙇 | ごめんなさい |  | 御免なさい | 狗麪那塞 |
 | zako |  | 🐟️ | ざこ | ザコ | 雑魚 | 雜魚 |
 | dame |  | 🙅 | だめ | ダメ | 駄目 | 打咩 |
-| baka |  |  | ばか | バカ | 馬鹿 | 八嘎 |
+| baka |  | ⑨[^2] | ばか | バカ | 馬鹿 | 八嘎 |
 | pantsu |  | 🩲 | ぱんつ | パンツ |  | 胖次 |
 | prpr | peropero |  | ぺろぺろ | ペロペロ |  |  |
 
 [^1]: えいち, used as Internet slang only
+[^2]: [A meme](https://www.youtube.com/watch?v=V_bQNPG2OyE) related to Cirno from Touhou Project
