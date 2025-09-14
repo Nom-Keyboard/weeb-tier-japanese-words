@@ -1,6 +1,7 @@
 | Pseudo-Romaji | Keyboard Sequences | Hiragana | Katakana | Kanji  | Chinese loan |
 | ------------- | ------------------ | -------- | -------- | ------ | ------------ |
 | arigatou |  | ありがとう |  | 有難う | 阿里嘎多 |
+| iku |  | いく | イク |  | 一庫 |
 | imouto |  | いもうと |  | 妹 | 一抹多 |
 | H | ecchi | えっち | エッチ |  |  |
 | ero |  | えろ | エロ |  | 工口 |
