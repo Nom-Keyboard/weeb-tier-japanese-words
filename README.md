@@ -1,5 +1,6 @@
 | Pseudo-Romaji | Keyboard Sequences | Hiragana | Katakana | Kanji  | Chinese loan |
 | ------------- | ------------------ | -------- | -------- | ------ | ------------ |
+| arigatou |  | ありがとう |  | 有難う | 阿里嘎多 |
 | imouto |  | いもうと |  | 妹 | 一抹多 |
 | oniichan |  | おにいちゃん |  | お兄ちゃん | 歐尼醬 |
 | oppai |  | おっぱい |  |  | 歐派 |
