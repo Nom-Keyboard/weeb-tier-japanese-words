@@ -41,7 +41,7 @@
 | dame |  | 🙅 | だめ | ダメ | 駄目 | 打咩 |
 | baka |  | ⑨[^2] | ばか | バカ | 馬鹿 | 八嘎 |
 | pantsu |  | 🩲 | ぱんつ | パンツ |  | 胖次 |
-| prpr | peropero |  | ぺろぺろ | ペロペロ |  |  |
+| prpr | peropero | 😋 | ぺろぺろ | ペロペロ |  |  |
 
 [^1]: えいち, used as [Internet slang](https://dic.pixiv.net/a/%E5%8F%A1%E6%99%BA) only
 [^2]: [A meme](https://www.youtube.com/watch?v=V_bQNPG2OyE) related to Cirno from Touhou Project
