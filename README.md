@@ -1,7 +1,7 @@
 | Pseudo-Romaji | Keyboard Sequences | Hiragana | Katakana | Kanji  | Chinese loan |
 | ------------- | ------------------ | -------- | -------- | ------ | ------------ |
 | arigatou |  | ありがとう |  | 有難う | 阿里嘎多 |
-| iku |  | いく | イク |  | 一庫 |
+| iku |  | いく | イク | 行く | 一庫 |
 | imouto |  | いもうと |  | 妹 | 一抹多 |
 | H | ecchi | えっち | エッチ |  |  |
 | ero |  | えろ | エロ |  | 工口 |
@@ -12,7 +12,7 @@
 | nani |  | なに | ナニ | 何 | 納尼 |
 | neko |  | ねこ | ネコ | 猫 |  |
 | nyaa | nya- | にゃー | ニャー |  |  |
-| hentai |  | へんたい |  | 変態 |  |
+| hentai |  | へんたい | ヘンタイ | 変態 |  |
 | homo |  |  | ホモ |  |  |
 | mahou shoujo |  | まほうしょうじょ |  | 魔法少女 | 馬猴燒酒 |
 | loli | rori | ろり | ロリ |  | 蘿莉 |
