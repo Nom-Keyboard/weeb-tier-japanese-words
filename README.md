@@ -30,5 +30,6 @@
 | dame |  | だめ | ダメ | 駄目 | 打咩 |
 | baka |  | ばか | バカ | 馬鹿 | 八嘎 |
 | pantsu |  | ぱんつ | パンツ |  | 胖次 |
+| prpr | peropero | ぺろぺろ | ペロペロ |  |  |
 
 [^1]: えいち, used as Internet slang only
