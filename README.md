@@ -17,6 +17,7 @@
 | kusa |  |  | くさ |  | 草 | 草 |
 | konnichiwa | konnnichiha | 👋 | こんにちは |  | 今日は | 扣你雞哇 |
 | sayounara |  | 👋 | さようなら | サヨウナラ | 左様なら | 撒由那拉 |
+| service | sa-bisu |  |  | サービス |  | 殺必死 |
 | sushi |  | 🍣 | すし |  | 寿司 | 壽司 |
 | sumimasen |  | 🙇 | すみません |  | 済みません | 斯密馬賽 |
 | sugoi |  |  | すごい | スゴイ | 凄い | 斯國一 |
